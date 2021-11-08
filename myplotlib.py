@@ -149,5 +149,5 @@ if __name__=='__main__':
     newpl = plotlib()
     paths = newpl.draw_plots(json_link,'corr')
     print(paths,newpl.plot_paths)
-    paths = newpl.draw_plots(json_link, 'displot')
-    print(paths, newpl.plot_paths)
+    #paths = newpl.draw_plots(json_link, 'displot')
+    #print(paths, newpl.plot_paths)

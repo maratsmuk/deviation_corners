@@ -9,7 +9,7 @@ Contents:
 - requirements.txt: the requirements file
 - venv/ : the virtual environment folder created by Pycharm
 - plots/ : the main folder with the plots. There are subfolders for the scatter plots, boxplots and histplots.
-- deviation_corners.ipynb: the Jupyter notebook for calling the created class and studying the results 
+- Notebook.ipynb: the Jupyter notebook for calling the created class and studying the results 
 
 myplotlib.py usage: 
 
